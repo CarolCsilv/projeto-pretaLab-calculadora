@@ -1,0 +1,48 @@
+.teal-lighten-2{ /*estilo para o body */
+  min-width: 100vh;
+  width: 100%;
+  display: flex;
+  background-color: #EAEAEA;
+}
+
+
+.nav-wrapper{ /*estilo para o head da calculadora */
+  min-width: 100vh;
+  width: 100%;
+  flex-direction: block;
+  align-items: center;
+  justify-content: center;  
+  background-color: #724796;
+  color:azure;
+
+}
+
+.row{ /*estilo para o body da calculadora */
+  background-color: #d5b9eb ;
+  
+}
+.row-col-s6{ /*estilo para o body da calculadora */
+  background-color: #d5b9eb ;
+  color:azure
+}
+
+
+.waves-effect-waves-light-btn-1{ /*estilo para o botão calcular */
+  background-color: #b31a97;
+  color:azure;  
+  border:1px solid #d5b9eb;
+  margin: 0%;
+  padding: 10px 10px 10px 10px; 
+  
+}
+  
+ 
+  
+
+.waves-effect-waves-light-btn-2{ /*estilo para o botão calcular */
+  background-color: #b31a97;
+  color:azure;    
+  margin: 0%;
+  padding: 5px 5px; 
+  
+}
